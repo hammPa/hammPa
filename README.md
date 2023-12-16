@@ -3,7 +3,7 @@
 
 - I'm currently studying on **Universitas Negeri Padang**
 - I'm currently learning **C, C++, Javascript, Go**
-- You can contact me at my Instagram : [hammPa](https://www.instagram.com/hammPa)
+- You can contact me at my Instagram : [hammPa](https://www.instagram.com/hammPa._)
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **languages :**  
