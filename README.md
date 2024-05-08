@@ -31,7 +31,7 @@ You can contact me at my **Account :**
 
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammPa&layout=compact&theme=vision-friendly-dark)](https://github.com/hammPa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammPa&layout=compact&theme=vision-friendly-light)](https://github.com/hammPa/github-readme-stats)
 
 
 📊 **i spent my time on:**
