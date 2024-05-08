@@ -6,6 +6,13 @@
 - You can contact me at my Instagram : [hammPa](https://www.instagram.com/hammPa._)
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+**Social :**
+![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=red)]
+![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=LinkedIn&logoColor=lightblue)]
+![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=blue)]
+
+
+
 **my favourite languages :**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
