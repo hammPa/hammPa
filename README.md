@@ -8,7 +8,7 @@
 
 **Social :**
 ![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=red)]
-![LinkedIn](https://img.shields.io/badge/linkedin-ffffff.?style=for-the-badge&logo=LinkedIn&logoColor=lightblue)]
+![LinkedIn](https://img.shields.io/badge/linkedin-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=lightblue)]
 ![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=Facebook&logoColor=blue)]
 
 
