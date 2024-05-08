@@ -8,22 +8,23 @@
 
 **Social :**
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)]
-![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)]
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)]
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/hammPa._)
+![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)(https://www.instagram.com/hammPa)](https://www.linkedin.com/in/m-ilham-55129b283/)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)(https://www.facebook.com/ilham1703)
 
 
 
 **my favourite languages :**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
 
 **my favourite library or framework**
-- React JS
-- Tailwind CSS
+- [React JS](https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg)
+- [Tailwind CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg)
+- [Elysia JS](https://github.com/tandpfun/skill-icons/blob/main/icons/Elysia-Light.svg)
 
 
 📊 **i spent my time on:**
