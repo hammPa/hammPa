@@ -31,7 +31,7 @@ You can contact me at my **Account :**
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hammPa&theme=light&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hammPa&theme=light&background=ffffff)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammPa&layout=donut&theme=vision-friendly-light)](https://github.com/hammPa/github-readme-stats)
 
 📊 **i spent my time on:**
