@@ -7,9 +7,9 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Social :**
-![Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=red)]
-![LinkedIn](https://img.shields.io/badge/linkedin-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=lightblue)]
-![Facebook](https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=Facebook&logoColor=blue)]
+![Instagram](https://img.shields.io/badge/Instagram-406e94?style=for-the-badge&logo=Instagram&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/linkedin-007bb6?style=for-the-badge&logo=LinkedIn&logoColor=white)]
+![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=Facebook&logoColor=white)]
 
 
 
