@@ -16,16 +16,16 @@ You can contact me at my **Account :**
 
 **my favourite languages :**  
 
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
 
 **my favourite library or framework**
 
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
-<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elysia-Light.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elysia-Light.svg"></code>
 
 
 📊 **i spent my time on:**
