@@ -22,9 +22,9 @@ You can contact me at my **Account :**
 <code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg"></code>
 
 **my favourite library or framework**
-- [React JS](https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg)
-- [Tailwind CSS](https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg)
-- [Elysia JS](https://github.com/tandpfun/skill-icons/blob/main/icons/Elysia-Light.svg)
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
+<code><img height="20" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elysia-Light.svg"></code>
 
 
 📊 **i spent my time on:**
@@ -35,7 +35,6 @@ C++            ████████████████░░░░░�
 Javascript     █████████░░░░░░░░░░░░░░░   30 %
 React JS       ███░░░░░░░░░░░░░░░░░░░░░   10 %
 C              ▓░░░░░░░░░░░░░░░░░░░░░░░   5  %
-Go             ▓░░░░░░░░░░░░░░░░░░░░░░░   5  %
 ```
 
 <!--END_SECTION:waka-->
