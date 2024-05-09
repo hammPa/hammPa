@@ -2,7 +2,7 @@
 <h3 align="center">Programmer, Web Developer, and Gamer</h3>
 
 - I'm currently studying on **Universitas Negeri Padang**
-- I'm currently learning **C, C++, Javascript, Go**
+- I'm currently learning **C, C++, Javascript, Typescript**
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 You can contact me at my **Account :**
