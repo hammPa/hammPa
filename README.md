@@ -26,6 +26,7 @@ You can contact me at my **Account :**
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"></code>
 <code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Elysia-Light.svg"></code>
+<code><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg"></code>
 
 ---
 
