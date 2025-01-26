@@ -24,7 +24,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,tailwind,laravel" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,tailwind,laravel,express,mongodb,mysql,mint" alt="Skills" />
 </p>
 
 ---
