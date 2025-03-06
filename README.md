@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=F75C7E&center=true&vCenter=true&width=500&lines=Programmer+%7C+Web+Developer+%7C+Gamer;Lifelong+Learner" alt="Typing Animation" />
 </p>
-
 ---
 
 - 🌱 I'm currently studying at **Universitas Negeri Padang**  
@@ -30,6 +29,11 @@
 ---
 
 ### 🔥 My Stats
+<p align="center">
+  <img src="https://github.com/hammPa/hammPa/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <p align="center" style="border: 2px solid #ccc; padding: 10px;">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=hammPa&theme=default&hide_border=true" alt="GitHub Streak Stats" />
