@@ -29,6 +29,8 @@
 ---
 
 ### 🔥 My Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <p align="center" style="border: 2px solid #ccc; padding: 10px;">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=hammPa&theme=default&hide_border=true" alt="GitHub Streak Stats" />
