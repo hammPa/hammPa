@@ -3,7 +3,7 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */2 * * *" # Setiap 2 jam
+    - cron: "0 */2 * * *"  # Setiap 2 jam
 
 permissions:
   contents: write
