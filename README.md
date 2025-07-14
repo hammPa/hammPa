@@ -32,7 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C          1 hr 9 mins     █████████████▓░░░░░░░░░░░   54.55 %
+C++        33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
+Assembly   14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+Python     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
