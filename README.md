@@ -40,6 +40,12 @@ JavaScript   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammPa&theme=default" />
+</p>
+
+
 <p align="center" style="border: 2px solid #ccc; padding: 10px;">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=hammPa&theme=default&hide_border=true" alt="GitHub Streak Stats" />
