@@ -21,12 +21,39 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Language & Tools
+* Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,react,tailwind,laravel,express,mongodb,mysql,mint" alt="Skills" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,ts,assembly,java"
+    />
+  </a>
+</p>
+
+
+
+* Libraries/Framework
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,express,nodejs,bun,mongodb,mysql"
+    />
+  </a>
+</p>
+
+
+* Tools
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=mint,arch,docker,git"
+    />
+  </a>
 </p>
 
 ---
+
 
 ### 🔥 My Stats
 <!--START_SECTION:waka-->
