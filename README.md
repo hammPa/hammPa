@@ -69,7 +69,7 @@ CMake        4 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammPa&theme=default" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hammPa&theme=default&column=5" />
 </p>
 
 
@@ -85,6 +85,13 @@ CMake        4 mins          ░░░░░░░░░░░░░░░░░
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammPa&theme=default&hide_border=true" alt="Top Langs" />
   </a>
 </p>
+
+<p align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 8px;">
+  <a href="https://github.com/username">
+    <img src="https://github-contributor-stats.vercel.app/api?username=hammPa&theme=default&combine_all_yearly_contributions=true&limit=5" alt="GitHub Stats" />
+  </a>
+</p>
+
 ---
 
 ### 🎮 Hobbies and Interests
