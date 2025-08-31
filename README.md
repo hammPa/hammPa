@@ -84,9 +84,6 @@ JavaScript    15 mins         ▒░░░░░░░░░░░░░░░�
   <a href="https://github.com/hammPa/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammPa&theme=default&hide_border=true" alt="Top Langs" />
   </a>
-</p>
-
-<p align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 8px;">
   <a href="https://github.com/username">
     <img src="https://github-contributor-stats.vercel.app/api?username=hammPa&theme=default&combine_all_yearly_contributions=true&limit=5" alt="GitHub Stats" />
   </a>
