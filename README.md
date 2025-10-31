@@ -59,7 +59,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Assembly   47 mins         ███████████████████████▓░   94.85 %
+C++        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Bash       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
