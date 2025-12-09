@@ -59,7 +59,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP   6 hrs 34 mins   █████████████████████████   100.00 %
+PHP      6 hrs 34 mins   ████████████████████████▓   98.72 %
+Python   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
