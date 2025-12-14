@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly             8 hrs 27 mins   █████████████▓░░░░░░░░░░░   55.18 %
-PHP                  6 hrs 34 mins   ██████████▓░░░░░░░░░░░░░░   42.89 %
-Git Config           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-Python               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JSON with Comments   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Assembly             8 hrs 27 mins   ███████████████████▓░░░░░   79.27 %
+PHP                  1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Git Config           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Python               5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON with Comments   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
