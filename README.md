@@ -59,8 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 50 mins    ████████████████████████░   95.39 %
-Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
