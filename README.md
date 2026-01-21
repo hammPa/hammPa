@@ -59,11 +59,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       14 hrs 58 mins  ██████████████████░░░░░░░   71.59 %
-Other            3 hrs 8 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.03 %
-RGBDS Assembly   1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-Svelte           1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
-JSON             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JavaScript       12 hrs 51 mins  █████████████████▒░░░░░░░   69.26 %
+Other            3 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+Svelte           1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+RGBDS Assembly   1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JSON             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
