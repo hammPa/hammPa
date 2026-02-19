@@ -59,11 +59,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TOML         8 mins                █████████████▒░░░░░░░░░░░   53.05 %
-YAML         6 mins                ██████████░░░░░░░░░░░░░░░   39.41 %
-Bash         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Rust         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
