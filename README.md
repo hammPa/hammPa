@@ -59,7 +59,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TOML         23 mins               ██████████████▒░░░░░░░░░░   56.93 %
+Prisma       15 mins               █████████▓░░░░░░░░░░░░░░░   38.44 %
+Rust         1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
