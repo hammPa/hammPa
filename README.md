@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm M. Ilham</h1>
-<h3 align="center">Programmer, Web Developer, and Gamer</h3>
+<h3 align="center">Low Level Developer, AI Enthusiast, and Gamer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=F75C7E&center=true&vCenter=true&width=500&lines=Programmer+%7C+Web+Developer+%7C+Gamer;Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=F75C7E&center=true&vCenter=true&width=500&lines=Low+Level+Developer+%7C+AI+Enthusiast;Lifelong+Learner" alt="Typing Animation" />
 </p>
----
-
-- 🌱 I'm currently studying at **Universitas Negeri Padang**  
-- 🔥 I'm currently learning **C, C++, JavaScript, TypeScript**
 
 ---
+### Currently
+- Studying Informatics at **Universitas Negeri Padang**
+- Learning deeper into **systems programming**, **machine learning**, and **compiler engineering**
+- Open to internships, remote work, and collaboration
 
-### 📬 Contact Me
+---
+
+### Contact Me
 
 <p align="center">
   <a href="https://www.instagram.com/hammPa._" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
@@ -91,21 +93,10 @@ Markdown   18 mins               █▒░░░░░░░░░░░░░�
 
 ---
 
-### 🎮 Hobbies and Interests
+### Hobbies and Interests
 - 🎮 Gaming: Enjoy playing competitive MOBA and strategy games.
 - 🎵 Music: Passionate about lo-fi music.
 - 🧩 Puzzles: Love solving logic and algorithm puzzles on coding platforms.
-
----
-
-### 🔧 Open to Collaboration
-I’m open to collaborating on:
-- Frontend or full-stack web projects.
-- Open-source initiatives.
-- Competitive programming and algorithm challenges.
-
-
----
 
 ### 🌐 Let's Connect
 <p align="center">
