@@ -61,7 +61,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++              12 mins               ████████████████▓░░░░░░░░   66.39 %
+RGBDS Assembly   6 mins                ████████▒░░░░░░░░░░░░░░░░   33.61 %
 ```
 
 <!--END_SECTION:waka-->
